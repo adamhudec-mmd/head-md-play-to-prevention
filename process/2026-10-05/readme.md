@@ -53,4 +53,4 @@ what are the norms in this level of reality
 
 eschatology
 the consequece of a story leaves an impact.
-lotr (going from point a to b and explaining/adding to the world)
+lotr (going from point a to b and explaining/adding to the world) 
