@@ -30,10 +30,10 @@ Actual malice:
 - Attack multiple times per turn, breaking the turn-based rules
 
 
+<img src="https://preview.redd.it/im-playing-dragon-quest-one-my-first-ever-dragon-quest-game-v0-7tz28lq1gu491.jpg?auto=webp&s=e9f07c2256be7e9621afaa31d5fb437d15c116b6" alt="alt text" width="500">
 
-![flee](https://preview.redd.it/im-playing-dragon-quest-one-my-first-ever-dragon-quest-game-v0-7tz28lq1gu491.jpg?auto=webp&s=e9f07c2256be7e9621afaa31d5fb437d15c116b6)
+<img src="https://static.wikia.nocookie.net/goldensun/images/d/d9/No_time_to_run.PNG/revision/latest?cb=20090930101609" alt="alt text" width="500">
 
-![flee](https://static.wikia.nocookie.net/goldensun/images/d/d9/No_time_to_run.PNG/revision/latest?cb=20090930101609)
 
 
 ## Stats (inspired by Undertale)
