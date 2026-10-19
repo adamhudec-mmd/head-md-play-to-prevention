@@ -20,11 +20,6 @@ Actual malice:
 
 <img src="https://mario.wiki.gallery/images/thumb/3/30/FortuneSt_Smile.png/1200px-FortuneSt_Smile.png" alt="alt text" width="200">
 
-=
-
-<img src="bloop/slime2.jpg" alt="alt text" width="400">
-
-
 ---
 
 **Slime actions (mild → malicious)**
