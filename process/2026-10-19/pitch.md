@@ -1,6 +1,10 @@
 # Get Slimed 
 *An RPG where you play the griefer, and feel what it does.*
 
+Actual malice:
+
+<img src="https://mario.wiki.gallery/images/thumb/3/30/FortuneSt_Smile.png/1200px-FortuneSt_Smile.png" alt="alt text" width="200">
+
 
 ## The idea
 You play a level-1 slime in an MMORPG whose only goal is to have fun by frustrating other players. You block doors, steal items, taunt, and chase them down. It is satisfying at first, then the game makes you look at what you've been doing.
@@ -14,11 +18,6 @@ Online griefing and cyberbullying in games.
 
 "It's just a game" is the excuse that makes griefing easy. Telling players to stop doesn't change that, so we let them do it and then face the result.
 
-
----
-Actual malice:
-
-<img src="https://mario.wiki.gallery/images/thumb/3/30/FortuneSt_Smile.png/1200px-FortuneSt_Smile.png" alt="alt text" width="200">
 
 ---
 
